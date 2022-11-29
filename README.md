@@ -8,7 +8,7 @@ This is a list:
 * third item
 
 Here is some code:
-'''
+```
 #include <iostream>
 using namespace std;
 int main()
